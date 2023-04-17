@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrydderr
+ 👋 Hi, I’m @rrydderr
 - 👀 I am a Philosophy and Politics Graduate from King's College London
 - 🐘 Aspiring Software Engineer
 - 🌱 Recent gradutate of Bright Network Technology Academy
