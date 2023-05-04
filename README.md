@@ -9,6 +9,8 @@
  
 - 💼 Future Associate of Technology at The Financial Conduct Authority
 
+- 📫 How to reach me **zane.ryder@outlook.com**
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrydderr&theme=dark" alt="rrydderr" /></p>
 
 
@@ -20,8 +22,6 @@
 <a href="https://linkedin.com/in/ryderzane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryderzane" height="30" width="40" /></a>
 <a href="https://instagram.com/rrydderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrydderr" height="30" width="40" /></a>
 </p>
-
-- 📫 How to reach me **zane.ryder@outlook.com**
 
 <h3 align="left">Support:</h3>
 <p align="left"> 
