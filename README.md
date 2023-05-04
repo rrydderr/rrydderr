@@ -24,6 +24,10 @@
 - 📫 How to reach me **zane.ryder@outlook.com**
 
 <h3 align="left">Support:</h3>
+<p align="left"> 
+Thanks for stopping by!
+As an aspiring software engineer with a background in philosophy and politics, I'm always looking to learn and upskill to tackle exciting new projects and achieve my goals. If you enjoy my work and would like to support me, you can buy me a coffee! Your contribution helps me to stay motivated and continue creating quality content, but please know that there's no pressure to donate, your support alone is greatly appreciated. Thank you!
+ </p>
 <p><a href="https://www.buymeacoffee.com/rrydderr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rrydderr" /></a></p><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrydderr&label=Profile%20views&color=606060&style=flat" alt="rrydderr" /> </p>
