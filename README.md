@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryder</h1>
 <h3 align="center">Get It Done.</h3>
 
-- 👀 I am a Philosophy and Politics Graduate from King's College London
-- 🐘 Aspiring Software Engineer
-- 🌱 Recent gradutate of Bright Network Technology Academy
-- 💻 Familiar with: 
-  - Java
-  - Spring / Spring Boot
-  - JavaScript
-  - React.js
-  - HTML
-  - CSS
- - 💼 Future Associate of Technology at The Financial Conduct Authority
+👀 I am a Philosophy and Politics Graduate from King's College London
+🐘 Aspiring Software Engineer
+🌱 Recent gradutate of Bright Network Technology Academy
+💼 Future Associate of Technology at The Financial Conduct Authority
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrydderr&theme=dark" alt="rrydderr" /></p>
 
