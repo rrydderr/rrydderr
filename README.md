@@ -7,7 +7,7 @@
 
 - 🌱 Recent gradutate of Bright Network Technology Academy
  
-- 💼 Future Associate of Technology at The Financial Conduct Authority
+- 💼 Incoming Associate of Technology at The Financial Conduct Authority
 
 - 📫 How to reach me **zane.ryder@outlook.com**
 
