@@ -4,7 +4,7 @@
  
 - 🐘 Cyber Security & Software Engineer
 
-- 🌱 Bright Network Technology Academy
+- 🌱 King's College London
 
 - 📫 How to reach me **zane.ryder@outlook.com**
 
