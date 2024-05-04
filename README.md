@@ -2,7 +2,7 @@
 
 - 💼 Associate of Technology at The Financial Conduct Authority
  
-- 🐘 Aspiring Cyber Security / Software Engineer
+- 🐘 Cyber Security & Software Engineer
 
 - 🌱 Bright Network Technology Academy
 
