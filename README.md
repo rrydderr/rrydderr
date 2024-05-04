@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryder</h1>
 <h3 align="center">Get It Done.</h3>
 
-- 👀 I am a Philosophy and Politics Graduate from King's College London
- 
-- 🐘 Aspiring Software Engineer
-
-- 🌱 Recent gradutate of Bright Network Technology Academy
- 
 - 💼 Associate of Technology at The Financial Conduct Authority
+ 
+- 🐘 Aspiring Cyber Security / Software Engineer
+
+- 🌱 Bright Network Technology Academy
 
 - 📫 How to reach me **zane.ryder@outlook.com**
 
@@ -23,7 +21,5 @@
 <a href="https://instagram.com/rrydderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrydderr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rrydderr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rrydderr" /></a></p><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrydderr&label=Profile%20views&color=606060&style=flat" alt="rrydderr" /> </p>
