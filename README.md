@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ryder</h1>
-<h3 align="center">Get It Done.</h3>
 
 - 💼 Associate of Technology at The Financial Conduct Authority
  
