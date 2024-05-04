@@ -1,10 +1,12 @@
 <h1 align="center">Ryder Zane</h1>
 
 - 💼 Associate of Technology at The Financial Conduct Authority
+
+- 🐍 Python 
  
 - 🐘 Cyber Security & Software Engineer
 
-- 🌱 King's College London
+- 📚 King's College London
 
 - 📫 How to reach me **zane.ryder@outlook.com**
 
