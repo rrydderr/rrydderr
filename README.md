@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryder</h1>
+<h1 align="center">Ryder Zane</h1>
 
 - 💼 Associate of Technology at The Financial Conduct Authority
  
